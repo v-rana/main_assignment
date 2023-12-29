@@ -1,5 +1,5 @@
 
-# pipeline 1 completed task:
+# [a link](https://github.com/user/repo/blob/branch/other_file.md) pipeline 1 completed task:
 . Four input fields
 . Store image in local file static
 
